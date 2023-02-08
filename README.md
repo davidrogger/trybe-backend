@@ -75,7 +75,7 @@ Projetos realizados durante o módulo de Backend na escola [trybe](https://www.b
         Trybers and Dragons
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-trybers-and-dragons">
-      <img src="./imgs/0placeholder_400x250.webp">
+      <img src="./imgs/placeholder_400x250.webp">
       </a>
     </td>
   </tr>
@@ -94,7 +94,7 @@ Projetos realizados durante o módulo de Backend na escola [trybe](https://www.b
         Commerce
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-commerce">
-      <img src="./imgs/0placeholder_400x250.webp">
+      <img src="./imgs/placeholder_400x250.webp">
       </a>
     </td>
   </tr>
