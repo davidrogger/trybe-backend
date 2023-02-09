@@ -9,7 +9,7 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
       <h2>
         Docker Todo-list
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-docker-todo-list">
+      <a href="https://github.com/davidrogger/trybe-docker-todo-list">
       <img src="./imgs/01_docker_todo_list.webp">
       </a>
     </td>
