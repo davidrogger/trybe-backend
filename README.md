@@ -28,8 +28,8 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
       <h2>
         One For All
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-one-for-all">
-      <img src="./imgs/placeholder_400x250.webp">
+      <a href="https://github.com/davidrogger/trybe-mysql-one-for-all">
+      <img src="./imgs/03_mysql_one_for_all.webp">
       </a>
     </td>
     <td width="50%" align="center">
