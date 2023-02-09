@@ -1,7 +1,7 @@
 # Backend
 
-Projetos realizados durante o módulo de Backend na escola [trybe](https://www.betrybe.com/).
->Visão geral dos Projetos dividindo cada projeto com seu respetivo repositório, onde é possível acessar todo código.
+Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](https://www.betrybe.com/).
+>Visão geral dos Projetos dividindo cada projeto com seu respetivo repositório, onde é possível acessar todo código, alguns blocos não foram necessariamente uma aplicação, principalmente os iniciais, onde tinhamos uma intro há algum conceito ou ferramenta nova, onde era aplica isso em algum projeto produzido pela trybe.
 
 <table>
   <tr valign="top">
@@ -10,7 +10,7 @@ Projetos realizados durante o módulo de Backend na escola [trybe](https://www.b
         Docker Todo-list
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-docker-todo-list">
-      <img src="./imgs/placeholder_400x250.webp">
+      <img src="./imgs/01_docker_todo_list.webp">
       </a>
     </td>
     <td width="50%" align="center">
