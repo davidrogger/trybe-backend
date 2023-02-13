@@ -37,7 +37,7 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
         Talker Manager
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-talker-manager">
-      <img src="./imgs/placeholder_400x250.webp">
+      <img src="./imgs/04_project_talker_manager.webp">
       </a>
     </td>
   </tr>
