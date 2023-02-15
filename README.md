@@ -48,7 +48,7 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
         Store Manager
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-store-manager">
-      <img src="./imgs/placeholder_400x250.webp">
+      <img src="./imgs/05_project_store_manager.webp">
       </a>
     </td>
     <td width="50%" align="center">
