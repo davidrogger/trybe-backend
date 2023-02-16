@@ -56,7 +56,7 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
         Blogs API
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-blogs-api">
-      <img src="./imgs/placeholder_400x250.webp">
+      <img src="./imgs/06_project_blogs_api.webp">
       </a>
     </td>
   </tr>
