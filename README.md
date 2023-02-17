@@ -67,7 +67,7 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
         Trybesmith
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-trybesmith">
-      <img src="./imgs/placeholder_400x250.webp">
+      <img src="./imgs/07_project_trybesmith.webp">
       </a>
     </td>
     <td width="50%" align="center">
