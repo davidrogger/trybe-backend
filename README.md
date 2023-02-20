@@ -75,7 +75,7 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
         Trybers and Dragons
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-trybers-and-dragons">
-      <img src="./imgs/placeholder_400x250.webp">
+      <img src="./imgs/08_project_trybe_and_dragons.webp">
       </a>
     </td>
   </tr>
