@@ -86,7 +86,7 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
         TFC - Trybe Futebol Clube
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-futebol-club">
-      <img src="./imgs/placeholder_400x250.webp">
+      <img src="./imgs/09_project_trybe_futebol_club.webp">
       </a>
     </td>
         <td width="50%" align="center">
