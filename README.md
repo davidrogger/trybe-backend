@@ -93,8 +93,8 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
       <h2>
         Commerce
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-commerce">
-      <img src="./imgs/placeholder_400x250.webp">
+      <a href="https://github.com/davidrogger/trybe-project-mongodb-commerce">
+      <img src="./imgs/10_project_trybe_mongodb_commerce.webp">
       </a>
     </td>
   </tr>
