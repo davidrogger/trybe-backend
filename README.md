@@ -105,7 +105,7 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
         Car Shop
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-car-shop">
-      <img src="./imgs/placeholder_400x250.webp">
+      <img src="./imgs/11_project_trybe_car_shop.webp">
       </a>
     </td>
         <td width="50%" align="center">
