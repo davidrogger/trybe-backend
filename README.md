@@ -112,8 +112,8 @@ Projetos e atividades realizadas durante o módulo de Backend na escola [trybe](
       <h2>
         App de Delivery
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-app-delivery">
-      <img src="./imgs/placeholder_400x250.webp">
+      <a href="https://github.com/davidrogger/trybe-project-delivery-app">
+      <img src="./imgs/12_project_trybe_delivery_app.webp">
       </a>
     </td>
   </tr>
